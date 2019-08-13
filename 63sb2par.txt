@@ -1,0 +1,9 @@
+import java.util.*;
+class pa{
+public static void main(String [] args)
+{
+StringBuffer l=new StringBuffer("sowjanya");
+
+System.out.println("after the string is: "+l.substring(2,4));
+}
+}
